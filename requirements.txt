@@ -3,7 +3,7 @@ torchvision>=0.15.0
 ultralytics>=8.0.0
 opencv-python-headless
 scikit-learn>=1.3.0
-
+omegaconf
 # Image Processing
 Pillow>=10.0.0
 numpy>=1.24.0
